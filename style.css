@@ -316,6 +316,10 @@ svg{
   font-size: 16px;
   color: var(--color-text);
 }
+a{
+  color: var(--color-blue);
+  text-decoration: none;
+}
 .section-detail-wrapper a i{
   color: var(--color-background);
   font-size:32px;
